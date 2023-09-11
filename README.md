@@ -24,6 +24,8 @@ I love outdoor sports and photography. Exploring nature and capturing its beauty
 
 Markdown supports different levels of headers:
 
+[IMG_0407.HEIC]
+
 # Header 1
 ## Header 2
 ### Header 3
