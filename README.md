@@ -23,6 +23,10 @@ I love outdoor sports and photography. Exploring nature and capturing its beauty
 
 ![full stack image](bike2.jpg)
 
+
+## Shortcuts
+
+[get help](https://www.markdownguide.org/cheat-sheet/)
 Markdown supports different levels of headers:
 
 
